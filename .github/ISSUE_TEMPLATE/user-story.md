@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-## Where the user can describe the experience or deficit of it.
+In order to **receive benefit** as a **role**, I can **goal / desire**
